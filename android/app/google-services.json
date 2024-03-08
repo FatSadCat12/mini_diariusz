@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435217031522",
+    "project_id": "mini-diariusz",
+    "storage_bucket": "mini-diariusz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435217031522:android:461421a3b5a26243360c3b",
+        "android_client_info": {
+          "package_name": "com.maciejmalinowski"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-j8RR5AQBfHJ-2Ev720IevaqJYnCqe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435217031522:android:b0ae0cf058edd578360c3b",
+        "android_client_info": {
+          "package_name": "com.maciejmalinowski.mini_diariusz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-j8RR5AQBfHJ-2Ev720IevaqJYnCqe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
